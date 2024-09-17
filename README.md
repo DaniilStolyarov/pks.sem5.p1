@@ -1,3 +1,4 @@
+# Практика 1. Столяров Даниил Шикхарович ЭФБО-01-22 22T0318
 ### Шаг 1. Установка и настройка Android Studio
 ![изображение](https://github.com/user-attachments/assets/0055fdaa-ddf4-4340-9342-138aaf9a24f0)
 ![изображение](https://github.com/user-attachments/assets/6449fd8d-758b-4516-a9ac-14bd00ebdb25)
